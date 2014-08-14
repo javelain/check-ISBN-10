@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1407993458 source:c:\users\alain\documents\github\check-isbn-10\check isbn-10\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<sstream>
+	<string>
+
